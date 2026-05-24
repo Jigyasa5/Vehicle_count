@@ -37,9 +37,7 @@ Vehicle_count/
 The following preprocessing steps were performed before training:
 - Image resizing to 640×640
 - Data normalization
-- Annotation validation
 - Dataset splitting into train, validation, and test sets
-- YOLO label format verification
 - Path configuration in `data.yaml`
 
 ---
