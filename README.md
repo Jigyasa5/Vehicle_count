@@ -87,8 +87,8 @@ This architecture enables simultaneous object localization and classification.
 # Sample Outputs
 The project generates:
 - Vehicle detection outputs
-![Detection Output](output1.png)
-![Detection Output](output2.png)
+![Detection Output](output1.jpg)
+![Detection Output](output2.jpg)
 - Confusion matrix
 - Precision-Recall curves
 - Training graphs
